@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Franz",
+    "role": "Sales",
+    "image": "images/franz.png"
+  },
+  {
+    "name": "Pizz",
+    "role": "Research",
+    "image": "images/pizz.png"
+  },
+  {
+    "name": "Jeremy",
+    "role": "Boss",
+    "image": "images/jeremy.png"
+  },
+  {
+    "name": "Stella",
+    "role": "Customer Support",
+    "image": "images/stella.png"
+  }
+]
